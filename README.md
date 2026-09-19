@@ -66,11 +66,11 @@ Currently, I'm focused on strengthening my development fundamentals and **learni
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,react,sql" />
 
 <br><br>
 
-<sub>HTML • CSS • JavaScript • Python • Node.js • React</sub>
+<sub>HTML • CSS • JavaScript • Python • Node.js • React Sql</sub>
 
 </div>
 
