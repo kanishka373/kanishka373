@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Kanishka 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&center=true&vCenter=true&width=750&lines=B.Tech+CSE+Student;Aspiring+Software+Developer;Currently+Learning+Full+Stack+Development;Building+Projects+%26+Learning+by+Doing" />
-</p>
+# KANISHKA
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=750&lines=B.Tech+CSE+Student;Aspiring+Software+Developer;Currently+Learning+Full+Stack+Development;Building+Projects+%26+Learning+by+Doing" />
+
+<p>
   <a href="https://github.com/kanishka373">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -13,137 +13,187 @@
   </a>
 </p>
 
----
-
-## 👩‍💻 About Me
-
-* 🎓 B.Tech Computer Science & Engineering student
-* 💻 Aspiring Software Developer
-* 📚 Currently learning **Full Stack Development**
-* 🛠️ Building practical projects to strengthen my development skills
-* 🧠 Practicing **Data Structures & Algorithms in Java**
-* 🔍 Interested in software development, security and AI-powered applications
-* 🚀 Learning by building, experimenting and improving
+</div>
 
 ---
 
-## 🛠️ Technologies
+## `01` — ABOUT ME
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,express,mongodb,mysql,flask,git,github,vscode" />
+```text
+B.Tech CSE Student
+Aspiring Software Developer
+Currently Learning Full Stack Development
+
+Building practical projects to strengthen my
+problem-solving and development skills.
+
+Interested in:
+Software Development • Web Development • AI • Cyber Security
+```
+
+---
+
+## `02` — TECHNOLOGY
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,sqlite" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-# 🚀 Projects
+# `03` — FEATURED PROJECTS
 
-## 🛡️ PromptShield
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A security-focused web application designed to detect sensitive information such as API keys, passwords, tokens and database credentials in text.
+### 🛡️ PromptShield
+
+**AI Security & Secret Detection**
+
+A security-focused web application for detecting sensitive information in text.
 
 **Tech Stack**
 
-`React` `Node.js` `Express.js` `MongoDB` `JavaScript`
+`React` `Node.js` `Express.js` `MongoDB`
 
-**Key Features**
+**Highlights**
 
-* 🔐 Sensitive information detection
-* 🛡️ Secret masking
-* 🔑 Authentication
-* 📊 Scan history
-* ⚡ React-based interface
-* 🔗 Backend REST APIs
-* 🗄️ MongoDB database integration
+* Sensitive information detection
+* Secret masking
+* Authentication
+* Scan functionality
+* MongoDB integration
+* React-based interface
+* Backend REST APIs
 
----
+</td>
 
-## 🗄️ SchemaLens
+<td width="50%" valign="top">
 
-A database visualization application that helps users explore database structures and relationships through an interactive graphical interface.
+### 🗄️ SchemaLens
+
+**Interactive Database Visualization**
+
+A database visualization application for exploring database structures and relationships.
 
 **Tech Stack**
 
 `React` `Node.js` `Express.js` `MySQL` `React Flow`
 
-**Key Features**
+**Highlights**
 
-* 🗂️ Database metadata visualization
-* 🔗 Primary-key / foreign-key relationships
-* 📊 Interactive schema graph
-* 🔍 Table and column search
-* 📋 Table details
-* 🎯 Relationship highlighting
-* 🔐 Login and database connection workflow
-* 🔎 Interactive zoom controls
+* Database metadata visualization
+* PK / FK relationships
+* Interactive schema graph
+* Table & column search
+* Table details
+* Relationship highlighting
+* Zoom controls
 
----
+</td>
+</tr>
 
-## 📄 ATS Resume Analyzer
+<tr>
+<td width="50%" valign="top">
 
-An AI-powered resume analysis and optimization application built to help users understand and improve their resumes for Applicant Tracking Systems.
+### 📄 ATS Resume Analyzer
 
-**Tech Stack**
+**AI-Powered Resume Analysis**
 
-`Python` `Streamlit` `Groq AI` `SQLite` `PyPDF2` `ReportLab` `Plotly` `Adzuna API`
-
-**Key Features**
-
-* 📊 AI-powered resume scoring
-* 🔍 Resume analysis and missing-skill detection
-* 📑 Downloadable PDF reports
-* ⚖️ Resume comparison
-* 🧩 Multi-template resume builder
-* 📈 Live job-market skill trends
-* 🔎 Job search using Adzuna API
-* 🗃️ Resume history and dashboard
-* 🎨 Custom interactive UI
-
----
-
-## 🔐 VaultShift — Encryption & Decryption
-
-A cyber-security-inspired web application built to explore fundamental cryptographic concepts through interactive text encryption and decryption.
+A Streamlit application for analyzing resumes and understanding ATS compatibility.
 
 **Tech Stack**
 
-`Python` `Flask` `SQLite` `HTML` `CSS` `JavaScript` `Bootstrap` `QRCode`
+`Python` `Streamlit` `Groq AI` `SQLite`
 
-**Key Features**
+`PyPDF2` `ReportLab` `Plotly` `Adzuna API`
 
-* 🔒 Caesar Cipher encryption/decryption
-* 🔄 Reverse Cipher transformation
-* 📜 Encryption history
-* 🚫 Duplicate record prevention
-* 🗑️ History deletion
-* 📱 QR code generation for encrypted outputs
-* 📋 Copy and download results
-* 📊 Interactive dashboard
-* 🟢 Matrix-style animations and neon cyber UI
-* 🔗 Flask frontend-backend integration
+**Highlights**
+
+* AI-powered resume scoring
+* Missing-skill detection
+* PDF report generation
+* Resume comparison
+* Multi-template resume builder
+* Live job-market skill analytics
+* Job search using Adzuna API
+* Resume history
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔐 VaultShift
+
+**Encryption & Decryption**
+
+A cyber-security-inspired web application for exploring fundamental encryption and decryption concepts.
+
+**Tech Stack**
+
+`Python` `Flask` `SQLite` `HTML` `CSS` `JavaScript`
+
+**Highlights**
+
+* Caesar Cipher
+* Reverse Cipher
+* Encryption & decryption workflows
+* Encryption history
+* Duplicate prevention
+* History deletion
+* QR code generation
+* Copy & download encrypted results
+* Matrix-style cyber UI
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔑 Password Strength Checker
+## 🔑 MORE PROJECTS
 
-A web application focused on evaluating password strength and securely handling stored credentials.
+### Password Strength Checker
+
+A web application focused on password strength checking and secure credential storage.
 
 **Tech Stack**
 
 `Python` `Flask` `SQLite` `HTML` `CSS` `JavaScript` `bcrypt`
 
-**Key Features**
+**Highlights**
 
-* 🔐 Password strength checking
-* 📊 Interactive dashboard
-* 🔒 Passwords stored using **bcrypt hashing**
-* 🗄️ SQLite database integration
-* 🌐 Flask-based web application
+* Password strength checking
+* Dashboard
+* bcrypt password hashing
+* SQLite database integration
 
 ---
 
-# 📚 Currently Learning
+# `04` — CURRENTLY LEARNING
 
-<p align="center">
+<div align="center">
 
 <img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Node.js-Learning-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -152,64 +202,97 @@ A web application focused on evaluating password strength and securely handling 
 <img src="https://img.shields.io/badge/Docker-Exploring-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-Exploring-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 
+</div>
+
+<p align="center">
+
+<code>React</code>
+ →  <code>Node.js</code>
+ →  <code>Express</code>
+ →  <code>REST APIs</code>
+ →  <code>Databases</code>
+ →  <code>Deployment</code>
+
 </p>
 
 ---
 
-# 🧠 Problem Solving
+# `05` — PROBLEM SOLVING
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DSA-Java-orange?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/LeetCode-Practice-black?style=for-the-badge&logo=leetcode&logoColor=orange" />
+
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DSA-Java-orange?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/LeetCode-Practice-black?style=for-the-badge&logo=leetcode&logoColor=orange" />
-</p>
-
-Currently strengthening my **Data Structures & Algorithms fundamentals in Java** and preparing for software development placements.
-
----
-
-# 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanishka373&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kanishka373&hide_border=true" />
+Currently strengthening Data Structures & Algorithms fundamentals in Java
+and practicing problem solving for software development placements.
 </p>
 
 ---
 
-# 🌱 My Learning Journey
+# `06` — GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kanishka373&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=kanishka373&hide_border=true" />
+
+</div>
+
+---
+
+# `07` — LEARNING JOURNEY
+
+<div align="center">
 
 ```text
 Programming Fundamentals
-        ↓
+          ↓
 Python • Java • JavaScript
-        ↓
+          ↓
 Web Development
-        ↓
+          ↓
 React + Node.js + Express
-        ↓
+          ↓
 REST APIs + Databases
-        ↓
+          ↓
 Docker & Deployment
-        ↓
-Learning • Building • Improving 🚀
+          ↓
+Build • Learn • Improve
 ```
+
+</div>
 
 ---
 
-# 📫 Connect With Me
+# `08` — CONNECT
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kanishka-d">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/kanishka373">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Learning. Building. Improving. 🚀</i>
-</p>
+<a href="https://github.com/kanishka373">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/kanishka-d">
+<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" />
+
+</div>
+
+
+
+
+
+
+
+
