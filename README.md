@@ -2,16 +2,16 @@
 
 # ✦ K A N I S H K A ✦
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=9B8AFB&center=true&vCenter=true&width=760&lines=B.Tech+CSE+Student;Aspiring+Software+Developer;Currently+Learning+Full+Stack+Development;Building+Projects+%26+Learning+by+Doing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=9B8AFB&center=true&vCenter=true&width=780&lines=B.Tech+CSE+Student;Aspiring+Software+Developer;Building+Practical+Projects;Currently+Learning+Full+Stack+Development;Learning+by+Building+%26+Experimenting" />
 
 <br>
 
 <a href="https://github.com/kanishka373">
-<img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/kanishka-d">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <br><br>
@@ -24,37 +24,40 @@
 
 <div align="center">
 
-## `01`   ABOUT ME
+## `01` — ABOUT ME
 
 </div>
 
-<table align="center">
+<table>
 <tr>
-<td width="55%" valign="top">
 
-### Hey, I'm Kanishka.
+<td width="58%" valign="top">
 
-I'm a **B.Tech CSE student** and an **Aspiring Software Developer** who enjoys turning ideas into practical applications.
+### Hey, I'm Kanishka 👋
 
-I like learning by building — exploring software development, AI-powered applications, web technologies and cyber-security concepts through hands-on projects.
+I'm a **B.Tech Computer Science & Engineering student** and an **Aspiring Software Developer** who enjoys turning ideas into practical applications.
 
-Currently, I'm focused on strengthening my development fundamentals and **learning Full Stack Development**.
+I learn best by building projects and experimenting with different technologies across **software development, AI, web development and cyber-security concepts**.
+
+Currently, I'm strengthening my fundamentals and **learning Full Stack Development** while preparing for software development opportunities.
 
 </td>
 
-<td width="45%" valign="top">
+<td width="42%" valign="top">
 
-### What I'm working on
+### Currently Focused On
 
-```text id="n0g8k2"
+```text
 ▸ Building practical projects
 ▸ Learning Full Stack Development
-▸ Practicing DSA in Java
-▸ Improving problem solving
-▸ Exploring AI & Cyber Security
+▸ DSA in Java
+▸ Problem Solving
+▸ SQL & Database Fundamentals
+▸ Web Development
 ```
 
 </td>
+
 </tr>
 </table>
 
@@ -62,27 +65,63 @@ Currently, I'm focused on strengthening my development fundamentals and **learni
 
 <div align="center">
 
-## `02`   TECH STACK
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,react,sql" />
-
-<br><br>
-
-<sub>HTML • CSS • JavaScript • Python • Node.js • React Sql</sub>
+## `02` — SKILLS & TECHNOLOGIES
 
 </div>
+
+### 💻 Core Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+</p>
+
+`Python` · `Java` · `JavaScript` · `HTML` · `CSS` · `SQL`
+
+### 🌐 Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask" />
+</p>
+
+`React` · `Node.js` · `Express.js` · `Flask`
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+</p>
+
+`MySQL` · `MongoDB` · `SQLite`
+
+### 🧠 Computer Science Fundamentals
+
+```text
+Data Structures & Algorithms
+DBMS
+Operating Systems
+REST APIs
+Object-Oriented Programming
+Problem Solving
+```
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+`Git` · `GitHub` · `VS Code`
 
 ---
 
 <div align="center">
 
-## `03`   FEATURED PROJECTS
+## `03` — FEATURED PROJECTS
 
 </div>
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
@@ -93,9 +132,9 @@ Currently, I'm focused on strengthening my development fundamentals and **learni
 <b>AI Security & Secret Detection</b>
 </p>
 
-Security-focused web application for detecting sensitive information such as API keys, passwords, tokens and database credentials in text.
+A security-focused web application designed to detect sensitive information such as API keys, passwords, tokens and database credentials in text.
 
-**Stack**
+**Tech Stack**
 
 `React` `Node.js` `Express.js` `MongoDB`
 
@@ -119,9 +158,9 @@ Security-focused web application for detecting sensitive information such as API
 <b>Interactive Database Visualization</b>
 </p>
 
-Database visualization application for exploring database structures and relationships through an interactive schema graph.
+A database visualization application for exploring database structures and relationships through an interactive schema graph.
 
-**Stack**
+**Tech Stack**
 
 `React` `Node.js` `Express.js` `MySQL` `React Flow`
 
@@ -149,9 +188,9 @@ Database visualization application for exploring database structures and relatio
 <b>AI-Powered Resume Analysis</b>
 </p>
 
-AI-powered Streamlit application for analyzing resumes and understanding ATS compatibility.
+An AI-powered Streamlit application designed to help users analyze and improve resumes for Applicant Tracking Systems.
 
-**Stack**
+**Tech Stack**
 
 `Python` `Streamlit` `Groq AI` `SQLite`
 
@@ -166,7 +205,7 @@ AI-powered Streamlit application for analyzing resumes and understanding ATS com
 * Multi-template resume builder
 * Live trending-skills analytics
 * Job search using Adzuna API
-* Resume history
+* Resume history & dashboard
 
 </td>
 
@@ -178,9 +217,9 @@ AI-powered Streamlit application for analyzing resumes and understanding ATS com
 <b>Encryption & Decryption</b>
 </p>
 
-Cyber-security-inspired web application for exploring fundamental encryption and decryption concepts through interactive text transformation.
+A cyber-security-inspired web application for exploring fundamental cryptographic concepts through interactive text transformation.
 
-**Stack**
+**Tech Stack**
 
 `Python` `Flask` `SQLite` `HTML` `CSS` `JavaScript`
 
@@ -199,13 +238,14 @@ Cyber-security-inspired web application for exploring fundamental encryption and
 </td>
 
 </tr>
+
 </table>
 
 ---
 
 <div align="center">
 
-## `04`   MORE PROJECTS
+## `04` — MORE PROJECTS
 
 </div>
 
@@ -213,12 +253,14 @@ Cyber-security-inspired web application for exploring fundamental encryption and
 
 A web application focused on password strength checking and secure credential storage.
 
-**Stack:** `Python` `Flask` `SQLite` `HTML` `CSS` `JavaScript` `bcrypt`
+**Tech Stack**
+
+`Python` `Flask` `SQLite` `HTML` `CSS` `JavaScript` `bcrypt`
 
 **Highlights**
 
 * Password strength checking
-* Dashboard
+* Interactive dashboard
 * SQLite database integration
 * Passwords stored using **bcrypt hashing**
 
@@ -226,28 +268,28 @@ A web application focused on password strength checking and secure credential st
 
 <div align="center">
 
-## `05`   CURRENTLY LEARNING
+## `05` — CURRENTLY LEARNING
 
 <br>
 
-<img src="https://img.shields.io/badge/HTML-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/Node.js-Learning-339933?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-Learning-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/REST%20APIs-Learning-02569B?style=for-the-badge">
 
 <br><br>
 
-```text id="x8jv3q"
+```text
 HTML + CSS
-     ↓
+      ↓
 JavaScript
-     ↓
+      ↓
 React
-     ↓
-Node.js
-     ↓
+      ↓
+Node.js + Express
+      ↓
+REST APIs
+      ↓
 Full Stack Development
 ```
 
@@ -257,64 +299,77 @@ Full Stack Development
 
 <div align="center">
 
-## `06`   PROBLEM SOLVING
+## `06` — DSA & PROBLEM SOLVING
 
 <br>
 
-<img src="https://img.shields.io/badge/DSA-Java-orange?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Java-DSA-orange?style=for-the-badge&logo=java&logoColor=white">
 &nbsp;
 <img src="https://img.shields.io/badge/LeetCode-Practice-black?style=for-the-badge&logo=leetcode&logoColor=orange">
 
 <br><br>
 
-Strengthening **Data Structures & Algorithms in Java** and practicing problem solving for software development placements.
-
 </div>
+
+Currently strengthening **Data Structures & Algorithms in Java**, with focus on problem solving and coding fundamentals.
+
+```text
+Arrays
+Strings
+Searching & Sorting
+Hashing
+Linked Lists
+Stacks & Queues
+Trees
+Recursion
+Problem Solving
+```
 
 ---
 
 <div align="center">
 
-## `07`   MY DEVELOPMENT JOURNEY
+## `07` — DEVELOPMENT JOURNEY
 
-<br>
+</div>
 
 <table align="center">
 <tr>
 
 <td align="center">
 
-<b>FOUNDATION</b><br><br>
-HTML • CSS<br>
-JavaScript
+### FOUNDATION
+
+Python<br>
+Java<br>
+JavaScript<br>
+HTML / CSS
 
 </td>
 
-<td align="center">
-
-→
-
-</td>
+<td align="center">→</td>
 
 <td align="center">
 
-<b>FRONTEND</b><br><br>
+### DEVELOPMENT
+
 React<br>
-Interactive UI
+Node.js<br>
+Express<br>
+Flask
 
 </td>
 
-<td align="center">
-
-→
-
-</td>
+<td align="center">→</td>
 
 <td align="center">
 
-<b>BACKEND</b><br><br>
-Python • Node.js<br>
-APIs
+### DATA & APIs
+
+SQL<br>
+MySQL<br>
+MongoDB<br>
+REST APIs
 
 </td>
 
@@ -323,7 +378,9 @@ APIs
 
 <br>
 
-<sub>Learning through projects and continuously improving my development skills.</sub>
+<div align="center">
+
+`Learn` → `Build` → `Experiment` → `Improve`
 
 </div>
 
@@ -331,7 +388,79 @@ APIs
 
 <div align="center">
 
-## `08`   GITHUB ACTIVITY
+## `08` — CERTIFICATIONS & LEARNING
+
+</div>
+
+<table>
+
+<tr>
+<td>
+
+🏆 **HackerRank** — SQL Intermediate
+
+</td>
+<td>
+
+🐍 **IBM** — Python for Data Science
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🤖 **Infosys Springboard** — AI for All
+
+</td>
+<td>
+
+🌐 **Great Learning** — HTML, CSS & Bootstrap
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+📊 **HP LIFE** — Data Science & Analytics
+
+</td>
+<td>
+
+💻 **Samsung Innovation Campus** — Coding & Programming
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+☁️ **AWS** — Machine Learning Terminology
+
+</td>
+<td>
+
+📈 **Deloitte** — Data Analytics
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+✨ **Tata Group** — GenAI Powered Data Analytics
+
+</td>
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+## `09` — GITHUB ACTIVITY
 
 <br>
 
@@ -347,18 +476,18 @@ APIs
 
 <div align="center">
 
-## `09`   CONNECT
+## `10` — CONNECT WITH ME
 
 <br>
 
 <a href="https://github.com/kanishka373">
-<img src="https://img.shields.io/badge/EXPLORE%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
  
 
 <a href="https://www.linkedin.com/in/kanishka-d">
-<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <br><br>
@@ -377,6 +506,13 @@ APIs
 
 
 
+
+
+
+
+
+
+ 
 
 
 
