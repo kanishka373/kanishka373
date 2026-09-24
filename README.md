@@ -486,7 +486,7 @@ REST APIs
 
  
 
-<a href="https://www.linkedin.com/in/kanishka-d">
+<a href="https://www.linkedin.com/in/kanishka-d-516a31392/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
