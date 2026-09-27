@@ -140,13 +140,13 @@ A security-focused web application designed to detect sensitive information such
 
 **Highlights**
 
-* Sensitive information detection
-* Secret masking
-* Authentication
-* Scan functionality
-* MongoDB integration
-* React-based interface
-* Backend REST APIs
+* 8 secret categories detected — API keys, JWT tokens, DB URIs, AWS keys & more
+* Weighted risk scoring (0–100) with Low/Medium/High verdicts
+* Instant masking with safe placeholders
+* Live client-side demo — no signup needed
+* Rate limiting & Helmet.js security headers
+* Scan history with PDF/CSV export
+* JWT authentication & bcrypt password hashing
 
 </td>
 
