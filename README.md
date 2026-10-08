@@ -46,7 +46,6 @@ Currently, I'm strengthening my fundamentals and **learning Full Stack Developme
 <td width="42%" valign="top">
 
 ### Currently Focused On
-
 ```text
 ▸ Building practical projects
 ▸ Learning Full Stack Development
@@ -54,232 +53,175 @@ Currently, I'm strengthening my fundamentals and **learning Full Stack Developme
 ▸ Problem Solving
 ▸ SQL & Database Fundamentals
 ▸ Web Development
-```
-
-</td>
-
-</tr>
-</table>
-
----
+▸ Streamlit Applications
 
 <div align="center">
-
-## `02` — SKILLS & TECHNOLOGIES
-
+02 — SKILLS & TECHNOLOGIES
 </div>
+💻 Core Programming
+<p> <img src="https://skillicons.dev/icons?i=python,java,js,html,css" /> </p>
 
-### 💻 Core Programming
+Python · Java · JavaScript · HTML · CSS · SQL
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
-</p>
+🌐 Development
+<p> <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask" /> </p>
 
-`Python` · `Java` · `JavaScript` · `HTML` · `CSS` · `SQL`
+React · Node.js · Express.js · Flask · Streamlit
 
-### 🌐 Development
+🗄️ Databases
+<p> <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" /> </p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask" />
-</p>
+MySQL · MongoDB · PostgreSQL · Supabase
 
-`React` · `Node.js` · `Express.js` · `Flask`
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
-</p>
-
-`MySQL` · `MongoDB` · `SQLite`
-
-### 🧠 Computer Science Fundamentals
-
-```text
+🧠 Computer Science Fundamentals
 Data Structures & Algorithms
 DBMS
 Operating Systems
 REST APIs
 Object-Oriented Programming
 Problem Solving
-```
+SQL
+🛠️ Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
 
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-`Git` · `GitHub` · `VS Code`
-
----
+Git · GitHub · VS Code
 
 <div align="center">
+03 — FEATURED PROJECTS
+</div> <table> <tr> <td width="50%" valign="top"> <h3 align="center">💸 ExpenseFlow</h3> <p align="center"> <b>Full-Stack Expense Management Application</b> </p>
 
-## `03` — FEATURED PROJECTS
+A full-stack personal expense management application designed to help users track transactions, manage budgets and understand their spending through analytics.
 
-</div>
+Tech Stack
 
-<table>
+HTML CSS JavaScript
+Node.js Express.js PostgreSQL Supabase
 
-<tr>
+Highlights
 
-<td width="50%" valign="top">
-
-<h3 align="center">🛡️ PromptShield</h3>
-
-<p align="center">
-<b>AI Security & Secret Detection</b>
-</p>
+Secure multi-user authentication
+JWT-based authentication
+Password hashing using bcrypt
+Transaction CRUD operations
+Smart filtering and sorting
+Monthly & category budgets
+Budget progress tracking
+Over-budget warnings
+Spending analytics
+Chart-based data visualization
+User-specific data isolation
+Data export
+Toast notifications
+Premium claymorphism-inspired UI
+</td> <td width="50%" valign="top"> <h3 align="center">🛡️ PromptShield</h3> <p align="center"> <b>AI Security & Secret Detection</b> </p>
 
 A security-focused web application designed to detect sensitive information such as API keys, passwords, tokens and database credentials in text.
 
-**Tech Stack**
+Tech Stack
 
-`React` `Node.js` `Express.js` `MongoDB`
+React Node.js Express.js MongoDB
 
-**Highlights**
+Highlights
 
-* 8 secret categories detected — API keys, JWT tokens, DB URIs, AWS keys & more
-* Weighted risk scoring (0–100) with Low/Medium/High verdicts
-* Instant masking with safe placeholders
-* Live client-side demo — no signup needed
-* Rate limiting & Helmet.js security headers
-* Scan history with PDF/CSV export
-* JWT authentication & bcrypt password hashing
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🗄️ SchemaLens</h3>
-
-<p align="center">
-<b>Interactive Database Visualization</b>
-</p>
+8 secret categories detected
+API keys, JWT tokens, DB URIs, AWS keys & more
+Weighted risk scoring from 0–100
+Low / Medium / High risk verdicts
+Instant secret masking
+Live client-side scanning
+Rate limiting
+Helmet.js security headers
+Scan history
+PDF / CSV export
+JWT authentication
+bcrypt password hashing
+</td> </tr> <tr> <td width="50%" valign="top"> <h3 align="center">🗄️ SchemaLens</h3> <p align="center"> <b>Interactive Database Visualization</b> </p>
 
 A database visualization application for exploring database structures and relationships through an interactive schema graph.
 
-**Tech Stack**
+Tech Stack
 
-`React` `Node.js` `Express.js` `MySQL` `React Flow`
+React Node.js Express.js MySQL React Flow
 
-**Highlights**
+Highlights
 
-* Database metadata visualization
-* Primary-key / foreign-key relationships
-* Interactive schema graph
-* Table & column search
-* Table details
-* Relationship highlighting
-* Zoom controls
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">📄 ATS Resume Analyzer</h3>
-
-<p align="center">
-<b>AI-Powered Resume Analysis</b>
-</p>
+Database metadata visualization
+Primary-key / foreign-key relationships
+Interactive schema graph
+Table & column search
+Table details
+Relationship highlighting
+Zoom controls
+Visual database exploration
+</td> <td width="50%" valign="top"> <h3 align="center">📄 ATS Resume Analyzer</h3> <p align="center"> <b>AI-Powered Resume Analysis</b> </p>
 
 An AI-powered Streamlit application designed to help users analyze and improve resumes for Applicant Tracking Systems.
 
-**Tech Stack**
+Tech Stack
 
-`Python` `Streamlit` `Groq AI` `SQLite`
+Python Streamlit Groq AI
+Supabase PostgreSQL
 
-`PyPDF2` `ReportLab` `Plotly` `Adzuna API`
+PyPDF2 ReportLab Plotly Adzuna API
 
-**Highlights**
+Highlights
 
-* AI-powered resume scoring
-* Missing-skill detection
-* PDF report generation
-* Resume comparison
-* Multi-template resume builder
-* Live trending-skills analytics
-* Job search using Adzuna API
-* Resume history & dashboard
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🔐 VaultShift</h3>
-
-<p align="center">
-<b>Encryption & Decryption</b>
-</p>
+AI-powered resume scoring
+Missing-skill detection
+Resume insights
+PDF report generation
+Resume comparison
+Multi-template resume builder
+Career improvement suggestions
+Trending-skills analytics
+Job search using Adzuna API
+Resume history & dashboard
+Persistent scan history using Supabase
+PostgreSQL-backed application data
+</td> </tr> <tr> <td width="50%" valign="top"> <h3 align="center">🔐 VaultShift</h3> <p align="center"> <b>Encryption & Decryption</b> </p>
 
 A cyber-security-inspired web application for exploring fundamental cryptographic concepts through interactive text transformation.
 
-**Tech Stack**
+Tech Stack
 
-`Python` `Flask` `SQLite` `HTML` `CSS` `JavaScript`
+Python Flask SQLite
+HTML CSS JavaScript
 
-**Highlights**
+Highlights
 
-* Caesar Cipher
-* Reverse Cipher
-* Encryption & decryption workflows
-* Encryption history
-* Duplicate prevention
-* History deletion
-* QR code generation
-* Copy & download encrypted results
-* Matrix-style cyber UI
+Caesar Cipher
+Reverse Cipher
+Encryption & decryption workflows
+Encryption history
+Duplicate prevention
+History deletion
+QR code generation
+Copy & download encrypted results
+Matrix-style cyber UI
+</td> <td width="50%" valign="top"> <h3 align="center">🔑 Password Strength Checker</h3> <p align="center"> <b>Password Security Application</b> </p>
 
-</td>
+A web application focused on password strength checking and secure credential handling.
 
-</tr>
+Tech Stack
 
-</table>
+Python Flask SQLite
+HTML CSS JavaScript bcrypt
 
----
+Highlights
 
+Password strength checking
+Interactive dashboard
+SQLite database integration
+Secure password hashing using bcrypt
+User-friendly interface
+Credential security concepts
+</td> </tr> </table>
 <div align="center">
-
-## `04` — MORE PROJECTS
-
-</div>
-
-### 🔑 Password Strength Checker
-
-A web application focused on password strength checking and secure credential storage.
-
-**Tech Stack**
-
-`Python` `Flask` `SQLite` `HTML` `CSS` `JavaScript` `bcrypt`
-
-**Highlights**
-
-* Password strength checking
-* Interactive dashboard
-* SQLite database integration
-* Passwords stored using **bcrypt hashing**
-
----
-
-<div align="center">
-
-## `05` — CURRENTLY LEARNING
-
-<br>
-
-<img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Node.js-Learning-339933?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-Learning-000000?style=for-the-badge&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/REST%20APIs-Learning-02569B?style=for-the-badge">
+04 — CURRENTLY LEARNING
+<br> <img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-Learning-339933?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-Learning-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/REST%20APIs-Learning-02569B?style=for-the-badge"> <img src="https://img.shields.io/badge/Streamlit-Learning-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
 
 <br><br>
 
-```text
 HTML + CSS
       ↓
 JavaScript
@@ -290,30 +232,20 @@ Node.js + Express
       ↓
 REST APIs
       ↓
+Databases
+      ↓
 Full Stack Development
-```
-
 </div>
-
----
-
 <div align="center">
-
-## `06` — DSA & PROBLEM SOLVING
-
-<br>
-
-<img src="https://img.shields.io/badge/Java-DSA-orange?style=for-the-badge&logo=java&logoColor=white">
-&nbsp;
-<img src="https://img.shields.io/badge/LeetCode-Practice-black?style=for-the-badge&logo=leetcode&logoColor=orange">
+05 — DSA & PROBLEM SOLVING
+<br> <img src="https://img.shields.io/badge/Java-DSA-orange?style=for-the-badge&logo=java&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/LeetCode-Practice-black?style=for-the-badge&logo=leetcode&logoColor=orange">
 
 <br><br>
 
 </div>
 
-Currently strengthening **Data Structures & Algorithms in Java**, with focus on problem solving and coding fundamentals.
+Currently strengthening Data Structures & Algorithms in Java, with focus on problem solving and coding fundamentals.
 
-```text
 Arrays
 Strings
 Searching & Sorting
@@ -323,172 +255,92 @@ Stacks & Queues
 Trees
 Recursion
 Problem Solving
-```
-
----
-
 <div align="center">
-
-## `07` — DEVELOPMENT JOURNEY
-
-</div>
-
-<table align="center">
-<tr>
-
-<td align="center">
-
-### FOUNDATION
+06 — DEVELOPMENT JOURNEY
+</div> <table align="center"> <tr> <td align="center">
+FOUNDATION
 
 Python<br>
 Java<br>
 JavaScript<br>
 HTML / CSS
 
-</td>
-
-<td align="center">→</td>
-
-<td align="center">
-
-### DEVELOPMENT
+</td> <td align="center">→</td> <td align="center">
+DEVELOPMENT
 
 React<br>
 Node.js<br>
 Express<br>
-Flask
+Flask<br>
+Streamlit
 
-</td>
-
-<td align="center">→</td>
-
-<td align="center">
-
-### DATA & APIs
+</td> <td align="center">→</td> <td align="center">
+DATA & APIs
 
 SQL<br>
 MySQL<br>
 MongoDB<br>
+PostgreSQL<br>
 REST APIs
 
-</td>
+</td> </tr> </table> <br> <div align="center">
 
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-`Learn` → `Build` → `Experiment` → `Improve`
+Learn → Build → Experiment → Improve
 
 </div>
-
----
-
 <div align="center">
+07 — CERTIFICATIONS & LEARNING
+</div> <table> <tr> <td>
 
-## `08` — CERTIFICATIONS & LEARNING
+🏆 HackerRank — SQL Intermediate
 
-</div>
+</td> <td>
 
-<table>
+🐍 IBM — Python for Data Science
 
-<tr>
-<td>
+</td> </tr> <tr> <td>
 
-🏆 **HackerRank** — SQL Intermediate
+🤖 Infosys Springboard — AI for All
 
-</td>
-<td>
+</td> <td>
 
-🐍 **IBM** — Python for Data Science
+🌐 Great Learning — HTML, CSS & Bootstrap
 
-</td>
-</tr>
+</td> </tr> <tr> <td>
 
-<tr>
-<td>
+📊 HP LIFE — Data Science & Analytics
 
-🤖 **Infosys Springboard** — AI for All
+</td> <td>
 
-</td>
-<td>
+💻 Samsung Innovation Campus — Coding & Programming
 
-🌐 **Great Learning** — HTML, CSS & Bootstrap
+</td> </tr> <tr> <td>
 
-</td>
-</tr>
+☁️ AWS — Machine Learning Terminology
 
-<tr>
-<td>
+</td> <td>
 
-📊 **HP LIFE** — Data Science & Analytics
+📈 Deloitte — Data Analytics
 
-</td>
-<td>
+</td> </tr> <tr> <td colspan="2" align="center">
 
-💻 **Samsung Innovation Campus** — Coding & Programming
+✨ Tata Group — GenAI Powered Data Analytics
 
-</td>
-</tr>
-
-<tr>
-<td>
-
-☁️ **AWS** — Machine Learning Terminology
-
-</td>
-<td>
-
-📈 **Deloitte** — Data Analytics
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-
-✨ **Tata Group** — GenAI Powered Data Analytics
-
-</td>
-</tr>
-
-</table>
-
----
-
+</td> </tr> </table>
 <div align="center">
-
-## `09` — GITHUB ACTIVITY
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=kanishka373&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
+08 — GITHUB ACTIVITY
+<br> <img src="https://github-readme-stats.vercel.app/api?username=kanishka373&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=kanishka373&hide_border=true" />
-
-</div>
-
----
-
+<img src="https://streak-stats.demolab.com?user=kanishka373&hide_border=true" /> </div>
 <div align="center">
+09 — CONNECT WITH ME
+<br> <a href="https://github.com/kanishka373"> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"> </a>
 
-## `10` — CONNECT WITH ME
+ 
 
-<br>
-
-<a href="https://github.com/kanishka373">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
- 
-
-<a href="https://www.linkedin.com/in/kanishka-d-516a31392/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<a href="https://www.linkedin.com/in/kanishka-d"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
 <br><br>
 
@@ -496,26 +348,7 @@ REST APIs
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient" width="100%">
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient" width="100%"> </div> ```
+▸ SQL & Database Fundamentals
+▸ Web Development
+▸ Streamlit Applications
