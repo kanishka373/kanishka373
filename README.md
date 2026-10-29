@@ -72,7 +72,7 @@ Currently, I'm strengthening my fundamentals and **learning Full Stack Developme
 ### 💻 Core Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+     <img src="https://skillicons.dev/icons?i=python,java,js,html,css,bootstrap" />
 </p>
 
 `Python` · `Java` · `JavaScript` · `HTML` · `CSS` · `SQL`
