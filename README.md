@@ -1,6 +1,6 @@
-<div align="center">
-
 # ✦ K A N I S H K A ✦
+
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=9B8AFB&center=true&vCenter=true&width=780&lines=B.Tech+CSE+Student;Aspiring+Software+Developer;Building+Practical+Projects;Currently+Learning+Full+Stack+Development;Learning+by+Building+%26+Experimenting" />
 
@@ -80,10 +80,10 @@ Currently, I'm strengthening my fundamentals and **learning Full Stack Developme
 ### 🌐 Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
 </p>
 
-`React` · `Node.js` · `Express.js` · `Flask`
+`React` · `Node.js` · `Express.js` · `Streamlit`
 
 ### 🗄️ Databases
 
@@ -91,7 +91,7 @@ Currently, I'm strengthening my fundamentals and **learning Full Stack Developme
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 </p>
 
-`MySQL` · `MongoDB` · `SQLite`
+`MySQL` · `MongoDB` · `SQLite` · `PostgreSQL`
 
 ### 🧠 Computer Science Fundamentals
 
@@ -140,13 +140,13 @@ A security-focused web application designed to detect sensitive information such
 
 **Highlights**
 
-* 8 secret categories detected — API keys, JWT tokens, DB URIs, AWS keys & more
-* Weighted risk scoring (0–100) with Low/Medium/High verdicts
-* Instant masking with safe placeholders
-* Live client-side demo — no signup needed
-* Rate limiting & Helmet.js security headers
-* Scan history with PDF/CSV export
-* JWT authentication & bcrypt password hashing
+- 8 secret categories detected — API keys, JWT tokens, DB URIs, AWS keys & more
+- Weighted risk scoring (0–100) with Low/Medium/High verdicts
+- Instant masking with safe placeholders
+- Live client-side demo — no signup needed
+- Rate limiting & Helmet.js security headers
+- Scan history with PDF/CSV export
+- JWT authentication & bcrypt password hashing
 
 </td>
 
@@ -166,13 +166,13 @@ A database visualization application for exploring database structures and relat
 
 **Highlights**
 
-* Database metadata visualization
-* Primary-key / foreign-key relationships
-* Interactive schema graph
-* Table & column search
-* Table details
-* Relationship highlighting
-* Zoom controls
+- Database metadata visualization
+- Primary-key / foreign-key relationships
+- Interactive schema graph
+- Table & column search
+- Table details
+- Relationship highlighting
+- Zoom controls
 
 </td>
 
@@ -198,14 +198,14 @@ An AI-powered Streamlit application designed to help users analyze and improve r
 
 **Highlights**
 
-* AI-powered resume scoring
-* Missing-skill detection
-* PDF report generation
-* Resume comparison
-* Multi-template resume builder
-* Live trending-skills analytics
-* Job search using Adzuna API
-* Resume history & dashboard
+- AI-powered resume scoring
+- Missing-skill detection
+- PDF report generation
+- Resume comparison
+- Multi-template resume builder
+- Live trending-skills analytics
+- Job search using Adzuna API
+- Resume history & dashboard
 
 </td>
 
@@ -225,15 +225,49 @@ A cyber-security-inspired web application for exploring fundamental cryptographi
 
 **Highlights**
 
-* Caesar Cipher
-* Reverse Cipher
-* Encryption & decryption workflows
-* Encryption history
-* Duplicate prevention
-* History deletion
-* QR code generation
-* Copy & download encrypted results
-* Matrix-style cyber UI
+- Caesar Cipher
+- Reverse Cipher
+- Encryption & decryption workflows
+- Encryption history
+- Duplicate prevention
+- History deletion
+- QR code generation
+- Copy & download encrypted results
+- Matrix-style cyber UI
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">💰 ExpenseFlow</h3>
+
+<p align="center">
+<b>Personal Expense Tracking & Management</b>
+</p>
+
+A full-stack expense management application designed to help users track expenses, manage transactions and visualize spending through an interactive dashboard.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `Node.js` `Express.js` `Supabase` `PostgreSQL`
+
+**Highlights**
+
+- User authentication with JWT
+- Secure password hashing using bcrypt
+- Expense tracking and management
+- Interactive dashboard
+- Expense analytics and visualization
+- Supabase PostgreSQL database integration
+- Responsive user interface
+
+</td>
+
+<td width="50%" valign="top">
 
 </td>
 
@@ -259,10 +293,10 @@ A web application focused on password strength checking and secure credential st
 
 **Highlights**
 
-* Password strength checking
-* Interactive dashboard
-* SQLite database integration
-* Passwords stored using **bcrypt hashing**
+- Password strength checking
+- Interactive dashboard
+- SQLite database integration
+- Passwords stored using **bcrypt hashing**
 
 ---
 
@@ -281,15 +315,15 @@ A web application focused on password strength checking and secure credential st
 
 ```text
 HTML + CSS
-      ↓
+     ↓
 JavaScript
-      ↓
+     ↓
 React
-      ↓
+     ↓
 Node.js + Express
-      ↓
+     ↓
 REST APIs
-      ↓
+     ↓
 Full Stack Development
 ```
 
@@ -356,7 +390,7 @@ HTML / CSS
 React<br>
 Node.js<br>
 Express<br>
-Flask
+Streamlit
 
 </td>
 
@@ -484,7 +518,7 @@ REST APIs
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
- 
+&nbsp;
 
 <a href="https://www.linkedin.com/in/kanishka-d-516a31392/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
