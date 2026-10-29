@@ -72,15 +72,16 @@ Currently, I'm strengthening my fundamentals and **learning Full Stack Developme
 ### 💻 Core Programming
 
 <p>
-     <img src="https://skillicons.dev/icons?i=python,java,js,html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,bootstrap" />
 </p>
 
-`Python` · `Java` · `JavaScript` · `HTML` · `CSS` · `SQL`
+`Python` · `Java` · `JavaScript` · `HTML` · `CSS` · `Bootstrap` · `SQL`
 
 ### 🌐 Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
 `React` · `Node.js` · `Express.js` · `Streamlit`
@@ -182,7 +183,7 @@ A database visualization application for exploring database structures and relat
 
 <td width="50%" valign="top">
 
-<h3 align="center">📄 ATS Resume Analyzer</h3>
+<h3 align="center">📄 ResuTrack</h3>
 
 <p align="center">
 <b>AI-Powered Resume Analysis</b>
@@ -269,21 +270,11 @@ A full-stack expense management application designed to help users track expense
 
 <td width="50%" valign="top">
 
-</td>
+<h3 align="center">🔑 Password Strength Checker</h3>
 
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-## `04` — MORE PROJECTS
-
-</div>
-
-### 🔑 Password Strength Checker
+<p align="center">
+<b>Password Security & Strength Analysis</b>
+</p>
 
 A web application focused on password strength checking and secure credential storage.
 
@@ -296,13 +287,19 @@ A web application focused on password strength checking and secure credential st
 - Password strength checking
 - Interactive dashboard
 - SQLite database integration
-- Passwords stored using **bcrypt hashing**
+- Passwords stored using bcrypt hashing
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 <div align="center">
 
-## `05` — CURRENTLY LEARNING
+## `04` — CURRENTLY LEARNING
 
 <br>
 
@@ -333,7 +330,7 @@ Full Stack Development
 
 <div align="center">
 
-## `06` — DSA & PROBLEM SOLVING
+## `05` — DSA & PROBLEM SOLVING
 
 <br>
 
@@ -363,7 +360,7 @@ Problem Solving
 
 <div align="center">
 
-## `07` — DEVELOPMENT JOURNEY
+## `06` — DEVELOPMENT JOURNEY
 
 </div>
 
@@ -377,7 +374,8 @@ Problem Solving
 Python<br>
 Java<br>
 JavaScript<br>
-HTML / CSS
+HTML / CSS<br>
+Bootstrap
 
 </td>
 
@@ -422,7 +420,7 @@ REST APIs
 
 <div align="center">
 
-## `08` — CERTIFICATIONS & LEARNING
+## `07` — CERTIFICATIONS & LEARNING
 
 </div>
 
@@ -494,7 +492,7 @@ REST APIs
 
 <div align="center">
 
-## `09` — GITHUB ACTIVITY
+## `08` — GITHUB ACTIVITY
 
 <br>
 
@@ -510,7 +508,7 @@ REST APIs
 
 <div align="center">
 
-## `10` — CONNECT WITH ME
+## `09` — CONNECT WITH ME
 
 <br>
 
