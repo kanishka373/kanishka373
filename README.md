@@ -92,7 +92,7 @@ Currently, I'm strengthening my fundamentals and **learning Full Stack Developme
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 </p>
 
-`MySQL` · `MongoDB` · `SQLite` · `PostgreSQL`
+`MySQL` · `MongoDB` · `SQLite` 
 
 ### 🧠 Computer Science Fundamentals
 
