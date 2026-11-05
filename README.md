@@ -39,7 +39,7 @@ I'm a **B.Tech Computer Science & Engineering student** and an **Aspiring Softwa
 
 I learn best by building projects and experimenting with different technologies across **software development, AI, web development and cyber-security concepts**.
 
-Currently, I'm strengthening my fundamentals and **learning Full Stack Development** while preparing for software development opportunities.
+Currently, I'm strengthening my fundamentals and **learning Full Stack Development** while preparing for software development opportunities
 
 </td>
 
