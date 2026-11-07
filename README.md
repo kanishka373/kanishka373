@@ -102,7 +102,7 @@ DBMS
 Operating Systems
 REST APIs
 Object-Oriented Programming
-Problem Solving
+SQL
 ```
 
 ### 🛠️ Tools
