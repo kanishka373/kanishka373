@@ -337,6 +337,7 @@ Full Stack Development
 <img src="https://img.shields.io/badge/Java-DSA-orange?style=for-the-badge&logo=java&logoColor=white">
 &nbsp;
 <img src="https://img.shields.io/badge/LeetCode-Practice-black?style=for-the-badge&logo=leetcode&logoColor=orange">
+<img src="https://neetcode.io/user/AstralParker845">
 
 <br><br>
 
