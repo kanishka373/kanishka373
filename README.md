@@ -444,22 +444,12 @@ REST APIs
 <tr>
 <td>
 
-🤖 **Infosys Springboard** — AI for All
-
-</td>
-<td>
-
 🌐 **Great Learning** — HTML, CSS & Bootstrap
 
 </td>
 </tr>
 
 <tr>
-<td>
-
-📊 **HP LIFE** — Data Science & Analytics
-
-</td>
 <td>
 
 💻 **Samsung Innovation Campus** — Coding & Programming
@@ -469,12 +459,6 @@ REST APIs
 
 <tr>
 <td>
-
-☁️ **AWS** — Machine Learning Terminology
-
-</td>
-<td>
-
 📈 **Deloitte** — Data Analytics
 
 </td>
