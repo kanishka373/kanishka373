@@ -4,16 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=9B8AFB&center=true&vCenter=true&width=780&lines=B.Tech+CSE+Student;Aspiring+Software+Developer;Building+Practical+Projects;Currently+Learning+Full+Stack+Development;Learning+by+Building+%26+Experimenting" />
 
-<br>
 
-<a href="https://github.com/kanishka373">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-     
-<br><br>
-
-<img src="https://raw.githubusercontent.com/kanishka373/kanishka373/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
-
-</a>
 &nbsp;
 <a href="https://www.linkedin.com/in/kanishka-d-516a31392/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -505,6 +496,10 @@ REST APIs
 
 <a href="https://github.com/kanishka373">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
+<br><br>
+
+<img src="https://raw.githubusercontent.com/kanishka373/kanishka373/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
+
 </a>
 
 &nbsp;
