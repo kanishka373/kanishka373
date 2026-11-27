@@ -8,6 +8,11 @@
 
 <a href="https://github.com/kanishka373">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+     
+<br><br>
+
+<img src="https://raw.githubusercontent.com/kanishka373/kanishka373/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
+
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/kanishka-d-516a31392/">
